@@ -1,1 +1,3 @@
-hello developer
+<?php
+echo "Day la newbie"
+?>
